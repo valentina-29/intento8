@@ -1,0 +1,7 @@
+C:\Users\YUMA\source\repos\ejercicioClase\ejercicioClase\bin\Debug\ejercicioClase.exe.config
+C:\Users\YUMA\source\repos\ejercicioClase\ejercicioClase\bin\Debug\ejercicioClase.exe
+C:\Users\YUMA\source\repos\ejercicioClase\ejercicioClase\bin\Debug\ejercicioClase.pdb
+C:\Users\YUMA\source\repos\ejercicioClase\ejercicioClase\obj\Debug\ejercicioClase.csprojAssemblyReference.cache
+C:\Users\YUMA\source\repos\ejercicioClase\ejercicioClase\obj\Debug\ejercicioClase.csproj.CoreCompileInputs.cache
+C:\Users\YUMA\source\repos\ejercicioClase\ejercicioClase\obj\Debug\ejercicioClase.exe
+C:\Users\YUMA\source\repos\ejercicioClase\ejercicioClase\obj\Debug\ejercicioClase.pdb
